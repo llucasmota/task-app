@@ -1,0 +1,38 @@
+.containerUl {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  padding: 0;
+  margin: 24px 0 0 0;
+  gap: 12px;
+
+ 
+}
+
+.containerLi {
+  display: flex;
+  max-width: 736px;
+  margin: 0 auto;
+  height: 72px;
+  flex-direction: row;
+  color: #F2F2F2;
+  align-items: flex-start;
+  border-radius: 8px;
+  padding: 16px;
+  border: 1px solid #333333;
+  gap: 12px;
+  background: #262626;
+
+}
+
+.containerImg {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+
+.paragraph {
+  margin: 0;
+  min-width: 632px;
+}
+

@@ -1,0 +1,17 @@
+.container {
+margin-top: 64px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+}
+.taskCreated {
+display: flex;
+gap: 8px;
+}
+
+.taskFinish {
+display: flex;
+gap: 8px;
+
+}

@@ -1,0 +1,11 @@
+.noTaskContainer {
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   height: 244px;
+   background: transparent;
+   align-items: center;
+   justify-content: center;
+   padding: 64px 0 64px 0;
+   color: #808080;
+}
